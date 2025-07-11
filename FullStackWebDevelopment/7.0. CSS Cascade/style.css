@@ -17,5 +17,5 @@ p {
   color: white;
 }
 #outer-box{
-  border: 10px solid purple;
+  background-color: purple;
 }
